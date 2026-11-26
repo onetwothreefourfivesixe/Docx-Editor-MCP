@@ -1,0 +1,6 @@
+.qodo
+node_modules/
+
+src/*.js
+*.d.ts
+*.map
