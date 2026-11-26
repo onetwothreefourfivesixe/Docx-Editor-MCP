@@ -1,0 +1,10 @@
+{
+  "name": "docx-editor",
+  "version": "1.0.0",
+  "description": "Propose edits to Word .docx files as native tracked changes that reviewers can accept or reject in Word.",
+  "author": {
+    "name": "Edward Xuming Lin"
+  },
+  "license": "ISC",
+  "keywords": ["docx", "word", "track-changes", "redline", "mcp"]
+}

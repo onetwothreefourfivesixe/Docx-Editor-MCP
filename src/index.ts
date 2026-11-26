@@ -4,7 +4,7 @@ import { z } from 'zod';
 import { applyTrackedReplacement } from './docx_revisions.js';
 
 const server = new McpServer({
-    name: 'docx-track-changes-server',
+    name: 'docx-editor',
     version: '1.0.0',
 });
 

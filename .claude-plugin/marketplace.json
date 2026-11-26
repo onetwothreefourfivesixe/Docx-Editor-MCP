@@ -1,0 +1,17 @@
+{
+  "name": "docx-editor-marketplace",
+  "owner": {
+    "name": "Edward Xuming Lin"
+  },
+  "metadata": {
+    "description": "Word .docx editing with native tracked changes."
+  },
+  "plugins": [
+    {
+      "name": "docx-editor",
+      "source": "./",
+      "description": "Propose edits to Word .docx files as native tracked changes that reviewers can accept or reject in Word.",
+      "version": "1.0.0"
+    }
+  ]
+}
